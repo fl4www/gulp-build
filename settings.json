@@ -1,0 +1,100 @@
+{
+	// Editor & Window Settings
+	"editor.bracketPairColorization.enabled": false,
+	"editor.guides.bracketPairs": false,
+	"editor.hover.enabled": false,
+	"editor.cursorBlinking": "expand",
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.fontSize": 14,
+	"editor.lineHeight": 24,
+	"editor.formatOnSave": true,
+	"editor.linkedEditing": true,
+	"editor.formatOnPaste": true,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.minimap.enabled": false,
+	"editor.insertSpaces": false,
+	"editor.tabSize": 2,
+	"editor.detectIndentation": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.renderWhitespace": "selection",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"files.autoSave": "afterDelay",
+	"window.zoomLevel": 1,
+	"window.openFilesInNewWindow": "off",
+
+	// Emmet Settings
+	"emmet.triggerExpansionOnTab": true,
+	"emmet.showExpandedAbbreviation": "never",
+
+	// Terminal Settings
+	"terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"terminal.integrated.fontSize": 15,
+	"debug.console.fontSize": 15,
+	"terminal.integrated.fontFamily": "JetBrains Mono",
+	"terminal.integrated.tabs.enabled": false,
+
+	// Explorer
+	"explorer.confirmDragAndDrop": false,
+	"explorer.confirmDelete": false,
+
+	// Prettier Config
+	"prettier.useTabs": true,
+	"prettier.semi": false,
+	"prettier.tabWidth": 4,
+	"prettier.arrowParens": "avoid",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"prettier.singleQuote": true,
+	"prettier.jsxSingleQuote": true,
+
+	// Workbench Settings
+	"workbench.colorCustomizations": {},
+	"workbench.startupEditor": "none",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.activityBar.visible": false,
+	"workbench.colorTheme": "Bearded Theme Black & Emerald",
+
+	// Breadcrumbs
+	"breadcrumbs.icons": false,
+	"breadcrumbs.showKeys": false,
+	"breadcrumbs.showFiles": false,
+	"breadcrumbs.symbolPath": "off",
+	"breadcrumbs.showArrays": false,
+	"breadcrumbs.showEvents": false,
+	"breadcrumbs.showFields": false,
+	"breadcrumbs.showClasses": false,
+	"breadcrumbs.showMethods": false,
+	"breadcrumbs.showBooleans": false,
+	"breadcrumbs.showConstants": false,
+	"breadcrumbs.showFunctions": false,
+	"breadcrumbs.showEnumMembers": false,
+	"breadcrumbs.showConstructors": false,
+
+	// Live Server
+	"liveServer.settings.donotShowInfoMsg": true,
+	"security.workspace.trust.untrustedFiles": "open"
+
+	/* Plug-Ins 
+		Auto Close Tag
+		Auto Complete Tag
+		Auto Rename Tag
+		Bearded Theme
+		Discord Presence
+		eCSStractor
+		ES7 + React/Redux snippets
+		Import Cost
+		IntelliCode
+		Live Server
+		Material Icon Theme
+		Path IntelliSense
+		Prettier
+		Sass
+		SCSS IntelliSense
+		Tailwind CSS
+	*/
+}
